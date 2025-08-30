@@ -7,3 +7,13 @@
 /data/original_jit_defects4j/features_test.pkl filter=lfs diff=lfs merge=lfs -text
 /data/original_jit_defects4j/features_train.pkl filter=lfs diff=lfs merge=lfs -text
 /data/original_jit_defects4j/features_valid.pkl filter=lfs diff=lfs merge=lfs -text
+/results/20241115-121603v4_no_ast_kamei_all_128.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241116-124357v4_ast_128_20_all.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241116-220323v4_ast_128_kamei_all.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241117-022626v4_no_ast_128_no_man.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241117-054118v4_all_128_20_all.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241117-212129v4_all_128_kamei_all.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241117-212329v4_no_ast_graph_20.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241119-024639v4_graph_text_no_man_128.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241119-062959v4_no_ast_text_no_man_128.zip filter=lfs diff=lfs merge=lfs -text
+/results/20241120-115700v4_ast_text_no_man_128.zip filter=lfs diff=lfs merge=lfs -text
