@@ -1,0 +1,1 @@
+This folder include all experiment results in tensorboard format. Each experiment is run 10 times which store the trained model.bin for reproduce the result.

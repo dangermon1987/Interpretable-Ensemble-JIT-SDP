@@ -1,0 +1,14 @@
+# Core dependencies for the Code Property Graph package
+networkx>=2.8.0
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Optional dependencies for advanced features
+# Uncomment if you need cloud storage integration
+# google-cloud-storage>=2.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# flake8>=5.0.0
+# black>=22.0.0
+# mypy>=0.991

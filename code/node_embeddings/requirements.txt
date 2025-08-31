@@ -1,0 +1,19 @@
+# Core dependencies for node embeddings package
+networkx>=2.8.0
+torch>=1.12.0
+torch-geometric>=2.1.0
+transformers>=4.20.0
+gensim>=4.2.0
+node2vec>=0.4.0
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Optional dependencies
+# scikit-learn>=1.1.0  # For additional ML utilities
+# matplotlib>=3.5.0    # For visualization
+# seaborn>=0.11.0      # For statistical visualization
+
+# Development dependencies
+# pytest>=7.0.0        # For testing
+# black>=22.0.0        # For code formatting
+# flake8>=5.0.0        # For linting
